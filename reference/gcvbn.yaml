@@ -33,7 +33,7 @@ paths:
         '404':
           description: User Not Found
       operationId: get-users-userId
-      description: Retrieve the information of the user with the matching user ID.
+      description: Retrieve the information of the user with the matching user ID.gcfgfc
       x-stoplight:
         id: m32am1wtgcj8l
     patch:
