@@ -1,0 +1,25 @@
+{
+  "name": "jhgcv",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {
+    ",kjhgfc": {
+      "id": "JqtkPtHAqML06aL0q_NQp",
+      "given": [],
+      "severity": "error",
+      "then": {
+        "function": ""
+      },
+      "name": ",kjhgfc"
+    }
+  },
+  "extendedDefault": false
+}
